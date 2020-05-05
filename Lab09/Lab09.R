@@ -49,7 +49,8 @@ X3marg
 
 P(X2<X3)
 P(X2marg<X3marg)
-P(x2marg>3|x3marg<87)
+P(X2marg>3|X3marg<87)
+X2marg > 3
 #Prob ca X2 < X3
 
 independent(X2,X3)

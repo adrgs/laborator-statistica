@@ -4,7 +4,7 @@
 #' date: ""
 #' ---
 
-#' Incarc pachetele discreteRV, prob si MASS, functia suppressMessages este folosita pentru a nu primi output atunci cand pachetul a fost incarcat
+#' Incarc pachetele discreteRV si prob, functia suppressMessages este folosita pentru a nu primi output atunci cand pachetul a fost incarcat
 suppressMessages(library(discreteRV, quietly = T))
 suppressMessages(library(prob, quietly = T))
 suppressMessages(library(MASS, quietly = T))
